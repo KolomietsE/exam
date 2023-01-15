@@ -1,0 +1,391 @@
+@media (max-width: 1365px) {
+    .products__wrapper,
+    .main__history__two {
+        justify-content:center;
+    }
+
+    .main__history__two {
+        margin: 80px 0;
+    }
+
+    .history__one {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width: 1255px) {
+    .header__content__tittle__sub {
+        font-size: 60px;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    .about__img img {
+        margin-top: 0;
+        max-width: 480px;
+    }
+
+    .about_one {
+        margin-top: 60px;
+    }
+
+    .about__wrapper {
+        align-items: flex-start;
+    }
+
+    .testimonial_wrapper_one {
+        margin-top: 40px;
+    }
+
+    .testimonial_wrapper_one::before {
+        top: 683px;
+    }
+    
+    .inside {
+        width: 170px;
+        height: 170px;
+    }
+
+    .inside_span_big {
+        font-size: 30px;
+        margin-top: 32px;
+    }
+
+    .inside_span_small {
+        font-size: 16px;
+    }
+
+    .testimonial_wrapper_one {
+        margin-bottom: 116px;
+    }
+
+    .testimonial_wrapper {
+        height: 1110px;
+    }
+
+    .offer__products__wrapper {
+        padding: 80px 30px;
+    }
+
+    .farm__history__wrapper {
+        padding: 16px 24px 16px 51px;
+        width: 82%;
+    }
+
+    .farm__history {
+        top: 40px;
+        max-width: 720px;
+        left: 470px;
+    }
+
+    .farm__p {
+        font-size: 28px;
+    }
+
+    .farm__span {
+        font-size: 36px;
+        line-height: 48px;
+    }
+
+    .farm__h3 {
+        font-size: 20px;
+    }
+
+    .farm__history__wrapper p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .gallery__wrapper {
+        padding: 90px 0;
+    }
+
+    .footer__wrapper {
+        margin: 104px 10px 72px 10px;
+    }
+
+    h4 {
+        font-size: 24px;
+    }
+
+    .footer__wrapper__contact > a, .footer__wrapper__utility > a, .footer__p, .footer__span {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+}
+
+@media (max-width: 1085px) {
+    .testimonial_wrapper_one {
+        padding-top: 25px;
+        margin-bottom: 70px;
+    }
+
+    .testimonial_wrapper_one::before {
+        top: 560px;
+        width: 590px;
+        margin-bottom: 52px;
+
+    }
+
+    .testimonial_text {
+        max-width: 520px;
+    }
+
+    .inside {
+        width: 100px;
+        height: 100px;
+    }
+
+    .inside_span_big {
+        font-size: 20px;
+        margin-top: 10px;
+        line-height: 2;
+    }
+
+    .inside_span_small {
+        font-size: 14px;
+        text-align: center;
+        line-height: 1;
+    }
+
+    .testimonial_title {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    .img_face {
+        margin-top: 22px;
+        margin-bottom: 13px;
+    }
+
+    .testimonial_wrapper {
+        height: 1014px;
+    }
+
+    .subscribe__span {
+        font-size: 36px;
+        line-height: 44px;
+    }
+
+    .input__subscribe input {
+        padding: 16px 57px 16px 26px;
+        font-size: 16px;
+    }
+
+    .button.subscribe__btn {
+        padding: 16px 71px 16px 33px;
+        font-size: 16px;
+    }
+
+    .button.subscribe__btn::after {
+        top: 13px;
+    }
+}
+
+@media (max-width: 1049px) {
+    .product__sup > img {
+        width: 309px;
+    }
+
+    .product__span {
+        width: 102px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .product__sup a {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .products__title {
+        margin-top: 34px;
+    }
+
+    .offer__products__p {
+        font-size: 30px;
+    }
+
+    .offer__products__span {
+        font-size: 36px;
+        line-height: 30px;
+    }
+
+    .button.header__content__btn__two {
+        font-size: 16px;
+        padding: 16px 58px 16px 27px;
+    }
+
+    .button.header__content__btn__two::after {
+        top: 13px;
+    }
+
+    .gallery__h3 {
+        font-size: 18px;
+        line-height: 24px;
+        padding: 27px 51px;
+    }
+
+    .gallery__wrapper {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-row-gap: 30px;
+    }
+
+    h4 {
+        font-size: 18px;
+        line-height: 17px;
+        margin-bottom: 25px;
+    }
+
+    .footer__wrapper__contact > .footer__span {
+        font-size: 16px;
+        line-height: 6px;
+    }
+
+    .footer__wrapper__contact > a, .footer__wrapper__utility > a, .footer__p, .footer__span {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .footer__wrapper__utility > a {
+        margin-bottom: 16px;
+    }
+
+    .footer__span {
+        max-width: 323px;
+    }
+
+    .footer__logo__link > img {
+        max-width: 130px;
+    }
+
+    .social img {
+        max-width: 50px;
+    }
+}
+
+@media (max-width: 950px) {
+    .header__logo__link img {
+        width: 130px;
+    }
+
+    .header__nav__item:not(:last-child) {
+        margin-right: 20px;
+    }
+
+    .header__nav__item__link {
+        font-size: 16px;
+    }
+
+    .cart_link img {
+        width: 40px;
+    }
+
+    .cart__link__p {
+        font-size: 16px;
+        line-height: 14px;
+        padding-right: 16px;
+    }
+
+    .header__logo {
+        margin-right: 40px;
+    }
+
+    .header__content__wrapper__two {
+        margin-top: 60px;
+
+    }
+
+    .header__content__two {
+        height: 596px;
+    }
+
+    .about__content {
+        max-width: 80%;
+    }
+
+    .p__about {
+        font-size: 30px;
+        line-height: 44px;
+    }
+
+    h2 {
+        line-height: 41px;
+    }
+
+    p {
+        line-height: 24px;
+    }
+
+    .button.about__content {
+        font-size: 16px;
+        padding: 16px 58px 16px 27px;
+    }
+
+    .button.about__content::after {
+        top: 13px;
+    }
+
+    .about__img {
+        display: none;
+    }
+}
+
+@media (max-width: 824px) {
+    .subscribe__content {
+        flex-direction: column;
+        padding: 80px 70px;
+    }
+
+    .subscribe__span br {
+        display: none; 
+    }
+
+    .ubscribe__span {
+        margin-bottom: 20px;
+    }
+
+    .farm__history {
+        left: 220px;
+    }
+
+    .testimonial_wrapper_one::before {
+        top: 504px;
+    }
+
+    .testimonial_wrapper_one {
+        margin-bottom: 40px;
+    }
+
+    .testimonial_wrapper {
+        height: 926px;
+    }
+}
+
+@media (max-width: 730px) {
+    .button.header__content__btn__two {
+        font-size: 15px;
+        padding: 16px 55px 16px 14px;
+    }
+
+    .offer__products__span {
+        font-size: 30px;
+    }
+}
+
+
